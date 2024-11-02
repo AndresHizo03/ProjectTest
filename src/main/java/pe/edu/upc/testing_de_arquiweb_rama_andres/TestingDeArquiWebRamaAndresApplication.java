@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestingDeArquiWebRamaAndresApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestingDeArquiWebRamaAndresApplication.class, args);
+        SpringApplication.run(TestingDeArquiWebRamaAndresApplication.class, argsasd);
     }
 
 }
